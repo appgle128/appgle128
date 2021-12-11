@@ -1,1 +1,1 @@
-String[] cmds = new String[]{"notepad"};
+String[] cmds = new String[]{"reboot"};
